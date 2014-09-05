@@ -1,0 +1,19 @@
+#bottom {
+	bottom: 0px;
+	position: fixed;
+	right: 10px;
+	left: 10px;	
+	/*width: 100%;*/
+}
+
+#yes {
+	float: right;
+	/*position: absolute;*/
+	margin-right: 0px;
+	/*right: 0;*/
+}
+
+#no {
+	float: left;
+	/*postion: absolute;*/
+}
